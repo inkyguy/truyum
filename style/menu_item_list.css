@@ -45,7 +45,7 @@ table, td, th{
     text-align: center;
     font-size:16px;
     padding-right: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.2em;
     font-family:Calibri;
     margin-left: auto;
     margin-right: auto;
@@ -53,6 +53,7 @@ table, td, th{
 .col{
     padding-right: 15em;
     text-align: left;
+    font-size:large;
 }
 
 h2{
@@ -87,7 +88,7 @@ p{
 }
 
 p1{
-    margin-left: 13em;
+    margin-left: 12em;
     font-family: Calibri;
     font-weight: bold;
     color:darkgray;
@@ -98,7 +99,7 @@ k{
 }
 
 p2,pp{
-    color: rgba(12, 224, 154, 0.918);
+    color: rgba(12, 199, 137, 0.863);
     text-align: center;
     font-weight: bold;
     margin-left: 30em;
@@ -107,4 +108,13 @@ p2,pp{
 
 pp{
     margin-left: 13em;
+}
+
+.lef{
+    text-align: left;
+}
+
+#tot,#toto{
+    font-weight: bold;
+    font-size:large;
 }

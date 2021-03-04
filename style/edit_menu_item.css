@@ -77,6 +77,8 @@ th{
 .alpha{
     font-family:Calibri;
     color: rgb(99, 100, 94);
+    font-size:large;
+    
     
 }
 table{
@@ -94,7 +96,7 @@ input[type="submit"] {
     width: 10em;
     background-color:#305496;
     font-family: calibri;
-    font-size: 12px;
+    font-size: 14px;
     color: white;
     font-weight:bold;
 }
